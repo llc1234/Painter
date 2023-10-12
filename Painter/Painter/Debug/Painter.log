@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(55,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(131,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(132,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(150,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(175,31): warning C4018: '<': signed/unsigned mismatch
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(203,57): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(261,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(262,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\Painter\Painter\painter.h(272,23): warning C4018: '<': signed/unsigned mismatch
+  Painter.vcxproj -> D:\visual_studio_Projects_cpp\Painter\Debug\Painter.exe
